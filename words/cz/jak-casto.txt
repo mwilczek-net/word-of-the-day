@@ -2,9 +2,9 @@
 
 Jak často?
 Jednou za týden
-dvakrát  za den
-často
-vůbec
-zřídka
-málokdy
-několikrát za týden
+Dvakrát  za den
+Často
+Vůbec
+Zřídka
+Málokdy
+Několikrát za týden
