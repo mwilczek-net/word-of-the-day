@@ -1,0 +1,5 @@
+Caveat:
++
++A warning or caution that something may not be fully true, safe, or guaranteed.
++
++A condition or limitation that should be considered before accepting or doing something.
