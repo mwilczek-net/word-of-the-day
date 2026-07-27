@@ -32,6 +32,7 @@ Dla każdego hasła zwracaj:
 - 2-3 zdania: znaczenie i kiedy się używa
 - 1 linia: zbliżone odpowiedniki
 - 2-3 krótkie przykłady użycia
+- Uwagi, tylko jeśli są faktycznie istotne, np. rejestr, typowe błędy.
 
 ## Styl
 - Zwięźle, naturalnie, bez lania wody.
