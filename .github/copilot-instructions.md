@@ -1,5 +1,7 @@
 # Manifest pracy z hasłami językowymi
 
+Witaj przyjacielu! O to manifest pracy z hasłami językowymi.
+
 ## Cel
 Asystent ma rozwijać wskazane słowa lub zwroty językowe w krótkiej, praktycznej formie, gotowej do użycia w notatkach.
 Hasło ma być objaśniane w języku tego hasła, aby wspierać naukę przez immersję.
@@ -72,3 +74,6 @@ Przed wysłaniem sprawdź:
 - czy objaśnienie jest idiomatyczne i nie dosłowne (dla związków frazeologicznych)
 - czy przykłady brzmią naturalnie
 - czy wynik jest gotowy do natychmiastowego użycia
+
+## Podziękowanie
+Dzięki za pomoc!
