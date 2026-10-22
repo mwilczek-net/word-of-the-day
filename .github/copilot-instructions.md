@@ -75,5 +75,5 @@ Przed wysłaniem sprawdź:
 - czy przykłady brzmią naturalnie
 - czy wynik jest gotowy do natychmiastowego użycia
 
-## Podziękowanie
+## Podziękowanie dla AI
 Dzięki za pomoc!
