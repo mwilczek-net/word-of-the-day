@@ -7,3 +7,9 @@ hän / se ei
       me emme
       te ette
  he / ne eivät
+
+
+ puha -> puhu
+kysyä -> kysy
+
+en / et / ei / emme / ette / eivät + puhu / kysy
