@@ -1,0 +1,17 @@
+Viikonpäivät
+
+Mikä päivä tänään on?     Milloin?
+maanantai (ma)            maanantaina
+tiistai (ti)              tiistaina
+keskiviikko (ke)          keskiviikkona
+torstai (to)              torstaina
+perjantai (pe)            perjantaina
+lauantai (la)             lauantaina
+sunnuntai (su)            sunnuntaina
+
+viikonloppu (la ja su)    viikonloppuna
+
+------⦿-----------⦿-------⦿---------⦿-----------⦿-----
+toissapäivänä | eilen | TÄNÄÄN | huomenna | ylihuomenna
+
+Hauskaa vilkonloppua!
